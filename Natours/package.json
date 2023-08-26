@@ -1,0 +1,19 @@
+{
+  "name": "course-advanced-css-and-sass",
+  "version": "1.0.0",
+  "description": "Learning CSS and Sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "scss"
+  ],
+  "author": "Igor Vilinchuk",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
