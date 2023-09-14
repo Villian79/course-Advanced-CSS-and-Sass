@@ -4,7 +4,9 @@ Learning repo based on **"Advanced CSS and Sass: Flexbox, Grid, Animations and M
 
 _Link to the Course: [https://www.udemy.com/course/advanced-css-and-sass/](https://www.udemy.com/course/advanced-css-and-sass/)_
 
-_Link to images resorce used: [https://unsplash.com/](https://unsplash.com/)_
+_Link to images resource used: [https://unsplash.com/](https://unsplash.com/)_
+
+_link to videos resource used: [https://coverr.co/](https://coverr.co/)_
 
 _Link to the Resources Page: [https://codingheroes.io/resources/](https://codingheroes.io/resources/)_
 
