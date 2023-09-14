@@ -2,6 +2,13 @@
 
 Learning repo based on **"Advanced CSS and Sass: Flexbox, Grid, Animations and More!"** course by _Jonas Schmedtmann_
 
+Projects completed:
+
+|   # | Project name                                                                       |
+| --: | ---------------------------------------------------------------------------------- |
+|  1. | **_[Natours](https://villian79.github.io/course-Advanced-CSS-and-Sass/Natours/)_** |
+|  2. | Trello                                                                             |
+
 _Link to the Course: [https://www.udemy.com/course/advanced-css-and-sass/](https://www.udemy.com/course/advanced-css-and-sass/)_
 
 _Link to images resource used: [https://unsplash.com/](https://unsplash.com/)_
