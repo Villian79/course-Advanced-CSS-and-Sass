@@ -16,6 +16,8 @@ _Link to images resource used: [https://unsplash.com/](https://unsplash.com/)_
 
 _link to videos resource used: [https://coverr.co/](https://coverr.co/)_
 
+_link to SVG resource used: [https://icomoon.io/](https://icomoon.io/)_
+
 _Link to the Resources Page: [https://codingheroes.io/resources/](https://codingheroes.io/resources/)_
 
 Main Objective: Recover my knowledge of CSS
