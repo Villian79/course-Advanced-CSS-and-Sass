@@ -15,6 +15,26 @@ COLORS declaration using CSS variables
   --color-grey-dark-1: #333;
   --color-grey-dark-2: #777;
   --color-grey-dark-3: #999;
+
+  --color-black: #000;
+  --color-white: #fff;
+
+  --shadow-dark: 0 2rem 6rem rgba(0, 0, 0, 0.3);
+  --shadow-light: 0 2rem 5rem rgba(0, 0, 0, 0.06);
+}
+
+$bp-largest: 75em; //1200px/16px=75em where 1em=16px - default browser font-size
+$bp-large: 68.75em; //1100px
+$bp-medium: 56.25em; //900px
+$bp-small: 37.5em; //600px
+$bp-smallest: 31.25em; //500px
+
+@mixin line-bottom {
+  border-bottom: 1px solid var(--color-grey-light-2);
+}
+
+@mixin line-top {
+  border-top: 1px solid var(--color-grey-light-2);
 }
 
 /* Simple RESET to remove default browser styling */
@@ -29,6 +49,10 @@ COLORS declaration using CSS variables
 html {
   box-sizing: border-box;
   font-size: 62.5%; //To make 1rem = 10px
+
+  @media only screen and (max-width: $bp-large) {
+    font-size: 50%;
+  }
 }
 
 body {
