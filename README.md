@@ -8,7 +8,7 @@ Projects completed:
 | --: | ---------------------------------------------------------------------------------- |
 |  1. | **_[Natours](https://villian79.github.io/course-Advanced-CSS-and-Sass/Natours/)_** |
 |  2. | **_[Trillo](https://villian79.github.io/course-Advanced-CSS-and-Sass/Trillo/)_**   |
-|  3. |                                                                                    |
+|  3. | **_[Nexter](https://villian79.github.io/course-Advanced-CSS-and-Sass/Nexter/)_**   |
 
 _Link to the Course: [https://www.udemy.com/course/advanced-css-and-sass/](https://www.udemy.com/course/advanced-css-and-sass/)_
 
